@@ -1,0 +1,9 @@
+__tests__/
+__fixtures__/
+__mocks__/
+*.tsbuildinfo
+tsconfig.json
+tsconfig.build.json
+.gitignore
+.DS_Store
+node_modules/
